@@ -6,4 +6,6 @@ public class Rate {
 
         System.out.println("A rate object has been made");
     }
+
+    //also need a dummy calculate
 }
